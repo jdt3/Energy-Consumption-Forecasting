@@ -28,3 +28,7 @@ Utilize Prophet to forecast future energy usage based on historical data.
 Interactive Visualization:
 
 An interactive dashboard allows users to dynamically select forecast horizons and explore prediction intervals.
+
+# Deployment
+The interactive dashboard has been deployed online. Use the link atteched below to explore the dashboard.
+http://127.0.0.1:8050/
