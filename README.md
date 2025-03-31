@@ -4,15 +4,15 @@ This project analyzes historical energy consumption data to forecast future usag
 # Overview
 This project performs an in-depth analysis of energy consumption data (AEP dataset) and applies forecasting techniques to predict future usage. Key components include:
 
-Data Analysis & Forecasting:
+ # Data Analysis & Forecasting:
 
 Exploratory data analysis, data preprocessing (resampling hourly data into daily averages), and forecasting using Python and Prophet. Model performance is evaluated with RMSE, MAE, and MAPE.
 
-Interactive Dashboard:
+ # Interactive Dashboard:
 
 An interactive dashboard built with Plotly Dash that lets users adjust the forecast horizon and view both historical and forecasted consumption data along with confidence intervals.
 
-Data Integration & Reporting:
+ # Data Integration & Reporting:
 
 The project also demonstrates the use of SQL for data transformation and Power BI for advanced reporting and visualization.
 
